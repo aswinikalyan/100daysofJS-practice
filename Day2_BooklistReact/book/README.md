@@ -1,3 +1,5 @@
+## This project has various commits to a single file, each commit covers different concepts, make sure to review the history
+### This project displays a booklist containing cards of 6 books and covers basic react concepts(components,props etc)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -27,4 +29,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-This project has various commits to a single file, each commit covers different concepts, make sure to review the history
