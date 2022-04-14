@@ -54,6 +54,7 @@ function BookList()
     </section>
   ); 
 }
+const clickHandler = () => { alert("Hi, no functionalities currently work"); };
 const Book = (props) =>
 {
   const { img, title, author } = props;
@@ -61,7 +62,8 @@ const Book = (props) =>
     <article className='book'>
       <img src={ img } alt='' />
       <h1>{ title }</h1>
-      <h4>{author}</h4>
+      <h4>{ author }</h4>
+      <button type="button" onClick={clickHandler}>Buy now</button>
     </article>
   )
 };

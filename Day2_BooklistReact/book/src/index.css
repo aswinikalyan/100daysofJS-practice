@@ -36,3 +36,8 @@ h4{
     border-radius: 1rem;
     padding:1rem 2rem;
 }
+button{
+    background-image: linear-gradient(rgb(255, 142, 29),rgb(214, 84, 132));
+    border-radius: 2rem;
+    width:5rem;
+}
