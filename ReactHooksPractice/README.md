@@ -1,4 +1,4 @@
-### These files contain examples of hooka of react
+### These files contain examples of hooks of react
 - useState:
 - - using array
 - - using object
